@@ -36,11 +36,11 @@ Installation
 
 ::
 
-    sudo pip install blee.icmPlayer
+   sudo pip install blee.icmPlayer
 
 Usage
 =====
 
 ::
 
-    /usr/local/bin/bleeIcmPlayer.py
+   /usr/local/bin/bleeIcmPlayer.py
