@@ -58,8 +58,6 @@ _CommentEnd_
 # {{{ DBLOCK-nodesList
 nodesList="
 blee
-blee.icmPlayer.egg-info
-dist
 bin
 "
 # }}} DBLOCK-nodesList

@@ -57,8 +57,8 @@ _CommentEnd_
 ####+BEGIN: bx:dblock:ploneProc:bash:nodesList :types ""
 # {{{ DBLOCK-nodesList
 nodesList="
-blee2
 bin
+blee2
 "
 # }}} DBLOCK-nodesList
 ####+END:
